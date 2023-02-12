@@ -1,0 +1,1 @@
+# RFL8OSXKioskMode
