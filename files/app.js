@@ -154,7 +154,7 @@ function BackToWebsite() {
 }
 
 function English() {
-    location.href="/en/index.html"
+    location.href="./en/index.html"
 }
 
 function Spanish() {
