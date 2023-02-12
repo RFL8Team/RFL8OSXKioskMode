@@ -172,3 +172,5 @@ function French() {
 function Japanese() {
     location.href="jp/index.html"
 }
+
+//
