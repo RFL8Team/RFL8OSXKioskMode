@@ -154,21 +154,21 @@ function BackToWebsite() {
 }
 
 function English() {
-    location.href="./en/index.html"
+    location.href="en/index.html"
 }
 
 function Spanish() {
-    location.href="/es/index.html"
+    location.href="es/index.html"
 }
 
 function Portuguese() {
-    location.href="/pt/index.html"
+    location.href="pt/index.html"
 }
 
 function French() {
-    location.href="/fr/index.html"
+    location.href="fr/index.html"
 }
 
 function Japanese() {
-    location.href="/jp/index.html"
+    location.href="jp/index.html"
 }
